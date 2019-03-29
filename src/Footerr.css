@@ -1,0 +1,19 @@
+.fl_left{float:left;}
+.fl_right{float:right;}
+
+.wrapperrow4{
+    background-color:  black;
+}
+
+#copyright{
+    padding:40px;
+
+}
+#copyright p{
+    color: white;
+}
+
+#copyright p a{
+    color: white;
+    text-decoration: none;
+}

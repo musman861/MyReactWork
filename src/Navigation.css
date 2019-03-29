@@ -1,0 +1,34 @@
+#Navigationn{
+    background-color: white;
+    color:rgb(1, 45, 90);
+}
+#logo a{
+    color: black;
+    text-decoration: none;
+    font-family: "Anjel Script";
+    font-size: 50px;
+}
+#logo{
+    float: left;
+    margin-left: 30px;
+    clear: left;
+    padding: 10px;
+}
+#Navigationn #Lists ul{
+    margin-right: 30px;
+    font-family: cursive;
+}
+#Navigationn #Lists ul li a{
+    text-decoration: none;
+    color: black;
+}
+#Navigationn #Lists ul li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    padding: 10px;    
+}
+
+#AboutUs{
+    visibility: hidden;
+}
